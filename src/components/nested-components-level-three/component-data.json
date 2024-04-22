@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_nested_components_level_three_component_data",
+  "info": {
+    "displayName": "componentDataThree",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subTitle": {
+      "type": "string"
+    },
+    "date": {
+      "type": "date"
+    },
+    "author": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "richtext"
+    },
+    "imageLink": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_nested_components_level_one_component_data_ones",
+  "info": {
+    "displayName": "componentDataOne",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "componentData": {
+      "type": "component",
+      "repeatable": true,
+      "component": "nested-components-level-two.component-data-two"
+    }
+  }
+}

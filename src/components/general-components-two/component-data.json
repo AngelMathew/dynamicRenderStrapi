@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_general_components_two_component_data",
+  "info": {
+    "displayName": "componentData",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

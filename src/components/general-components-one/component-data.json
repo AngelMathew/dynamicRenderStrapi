@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_general_components_one_component_data",
+  "info": {
+    "displayName": "componentData"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "componentData": {
+      "displayName": "componentData",
+      "type": "component",
+      "repeatable": false,
+      "component": "general-components-two.component-data"
+    }
+  }
+}
